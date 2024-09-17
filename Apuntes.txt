@@ -1,0 +1,9 @@
+Backend => Aquí estará toda la logica y cruds del proyecto
+Face_Cam => Aquí estará la camara para el reconocimiento facial
+Frontend => El frontend
+README.md => La descripción del proyecto
+
+git branch [nombre_rama] => Creación de una nueva rama 
+git checkout [nombre_rama] => Cambiarse a una rama
+git branch => Verificar la rama en la que nos encontramos
+
